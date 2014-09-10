@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="HHH_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="445"
+		item_height="300"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="white"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+<item>
+	
+<description bgcolor="#0066CC">
+<![CDATA[<p class="white_text">
+
+<span class="title_medlarge">COMPILER DESIGN</span>
+<span class="desc_large">2CE701</span><br /></p>]]>
+</description>
+		
+<content>
+<![CDATA[<span class="title_large">Compiler Design</span>
+<p align="justify"> <a href="books\7_full.pdf" target="_blank">Download PDF Here.</a>
+<span class="highlight">Reference Books:</span><pre>
+1. A Retargetable C Compiler: Design and Implementation
+    By Fraser and Hansen, Benjamin-Cummings, 1995.
+2. Compilers: Principles, Techniques and Tools                  
+    By Aho, Sethi, and Ullman, Addison-Wesley, 1986
+3. Advanced Compiler Design and Implementation   
+    By Muchnick, Morgan and Kaufmann, 19984.
+4. Introduction to Compiler Construction with UNIX                     
+    By Schreiner and Friedman, Prentice-Hall, 1985.  
+5. Compiler Design in C     
+    By Holub, Prentice-Hall, 1990.</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction: :</span>
+<pre>Programs, interpreters, and translators; Analysis-Synthesis model of translation; Examples of translators; study of compilers. Issues in compiler design  </pre>
+<span class="subtitle">The Structure Of a Compiler :</span>
+<pre> Lexical Analyzer, LEX, Design of Lex . </pre>
+<span class="subtitle">Parsing :</span>
+<pre>Top down Parsing, LL(1) Parsers, Bootom up Parsing, YACC, LR parsers, Syntax Directed Translation : Type Checking , Run-Time Storage Administration and Symbol Table Management.</pre>
+<span class="subtitle">Implementing a semantic Analyzer:</span>
+<pre>Compilation techniques for control flow (expressions, assignment, sequencing, selection, iteration, recursion), declarations, types (arrays, records, strings, pointers) and type checking, subroutine calls and parameter passing, heap management.</pre>
+<span class="subtitle">Code Generation :</span>
+<pre>Intermediate Code and Code Generation, Data-Flow Analysis , Code Optimizations.</pre>
+<span class="subtitle">Code Optimization : </span>
+<pre>Overview of optimization; Data Flow Analysis; Peephole Optimizations; Constant Folding, Common Subexpression Elimination,Copy Propagation, Strength Reduction. Global Optimization: Loop optimizations; Induction Variable elimination, Optimizing procedure calls - inline and closed procedures. Machine-Dependent Optimization: Pipelining and Scheduling; Pentium and Pentium- Pro specifics.  </pre>]]>
+</content>
+
+</item>
+	
+<item>
+
+<description bgcolor="#228844">
+<![CDATA[<p class="white_text" align="center">
+<span class="desc_large">2CE702 </span>
+<span class="title_large">ARTIFICIAL INTELLIGENCE</span>
+<br /><br /></p>]]>
+</description>
+ 
+	<!--
+    4. Introduction To AI.              
+    By Charmiak and M.Dermalt , Addision-Wesley. 
+    5. The Engineering of Knowledge Based  Systems Theory and Practice.                 
+    By A.J.Gongalez  & D.D. Dankel ,Prentice Hall.   
+    6. Fundamentals of Artificial Neural Networks                     
+    By Mohamad H. Hassou
+    
+    
+    -->
+<content>
+<![CDATA[<span class="title_medium">ARTIFICIAL INTELLIGENCE</span>
+<p align="justify"><span class="highlight">Reference Books:</span>
+<pre>
+1. Principles Of Artificial Intelligence.
+By N.J.Nilsson, Kaufmann. SS<a href="books\ce\ce_4th\os.pdf" target="_blank">&nbsp;Download Here.</a>
+2. Artificial Intelligence
+By Rich E. & Kevin Knight ,Tata McGraw Hill.<a href="books\ce\ce_4th\full_tanenbaum.pdf" target="_blank">&nbsp;Download Here.</a>
+3. Introduction To AI and Expert Systems.
+By Dan .W. Patterson Prentice Hall India</pre>
+<span class="syllabus">Syllabus--------------->>>></span><br>
+<span class="subtitle"> Overview Of Artificial Intelligence:</span>
+<pre> What is AI, Importance of AI, Fields of AI</pre>
+<span class="subtitle">Problems and Problem Spaces & Search:</span>
+<pre>AI Problems, Underlying Assumptions, The Level Of the Model, Criteria for success, Defining the Problem as State Space Search, Production Systems, Problem Characteristics, Issues in the Design of Search Programs, Problems.</pre>
+<span class="subtitle">Heuristic Search Techniques:</span>
+    <pre>Generate & Test, Hill Climbing, Best First Search, Problem Reduction, Constraint Satisfaction, Means-Ends Analysis.  </pre>
+<span class="subtitle">Knowledge Representation:</span>
+<pre>Knowledge Representation Issues, Predicate Logic, Representing Facts in Logic, Isa – Instance Relation, Computable functions and predicates, Resolution, Natural Deduction.</pre>
+<span class="subtitle">Languages For AI Problems:</span>
+    <pre>prolog, LISP</pre>
+<span class="subtitle">Symbolic Reasoning Under Uncertainty:</span>
+    <pre>Nonmonotonic Reasoning, Logics for Nonmonotonic Reasoning, Implementation Issues.</pre>
+<span class="subtitle">Probabilistic Reasoning:</span>
+<pre>Probability and Bayes Theorem, Certainty Factors and Rule Based System, Bayesian Network, Dempster-Safer Theory, Fuzzy Logic.</pre>
+<span class="subtitle">Structured Knowledge:</span>
+    <pre>Semantic Nets, Frames, Conceptual Dependency and Scripts.</pre>
+<span class="subtitle">Expert System Architecture & Tools:</span>
+    <pre>Introduction, Rule Based System Architecture, Nonoproduction System Architecture, Dealing with Uncertainty, Knowledge Acquisition & Validation, System Building Tools.</pre></p>]]>
+</content>
+
+</item>
+<item>
+
+<description bgcolor="#262626">
+<![CDATA[<p class="white_text">
+<span class="title_medlarge1">2CE703</span>
+
+<span class="title_large">IMAGE PROCESSING</span><br /><br /></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title_medium">Digital Image Processing</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. Digital Image Processing
+By Rafael C. Gonzalez and Richard E. Woods. 
+</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction :</span>
+    <pre>Background ,Digital Image Processing,Fundamental Steps in Image Processing,Elements of Digital Image Processing Systems  
+    </pre>
+<span class="subtitle">Digital Image Fundamentals :</span>
+    <pre>Elements of Visual Perception,A Simple Image Model,Sampling and Quantization,Some Basic Relationship Between Pixels,Imaging Geometry,Photographic Film.
+    </pre>
+<span class="subtitle">Image Enhancement:</span>
+    <pre>Background,Enhancement by Point Processing,Spatial Filtering,Enhancement in the Frequency Domain,Generation of Spatial Masks from Frequency Domain Specifications,Color Image Processing.  
+    </pre>
+<span class="subtitle">Image Restoration :</span>
+    <pre>Degradation Model,Diagonalization of Circulant and Block- Circulant Matrics,Algebraic Approach to Restoration,Inverse Filtering,Least Mean Square(Wiener) Filter,Conatrained Least Squares Restoration,Interactive Restoration,Restoration in the Spatial Domain,Geometric Transformations.  
+    </pre>
+<span class="subtitle">Image Compression :</span>
+    <pre>Fundamentals,Image Compression Models,Elements of Information Theory,Error-Free Compression,Image Compression Standards.  
+    </pre>
+<span class="subtitle">Image Segmentation : </span>
+    <pre>Deletion of Discontinuities,Edge Linking and Boundary Detection,Threshollding,Region-Oriented Segmentation,The Use of Motion in Segmentation.  
+    </pre>
+</p>]]>
+</content>
+
+</item>
+    <!--
+    CE ELECTIVE:   
+Teaching Scheme Examination Scheme Theory Practical Sem End Lect Prac Total Int Ass Marks Hrs Total Int Ass Sem End Total Grand Total 4 2 6 30 70 3 100 25 25 50 150  
+Introduction:  Von Neumann architecture, Why do we need high speed computing?,  How do we increase the speed of computers?, Some interesting features of parallel computers. 
+Solving Problems In Parallel: Temporal parallelism, Data Parallelism, Combined temporal and data parallelism, Data parallelism with dynamic assignment, Data parallelism with quasi-dynamic assignment, Comparison of Temporal and Data Parallel Processing.  
+Instruction level Parallel Processing: Pipelining of Processing Elements, Delays in Pipeline Execution, Delay due to resource constraints, Delay due to data dependency, Pipeline delay due to branch instructions, Hardware modification to reduce delay due to branches, software modification to reduce delay due to branches, Difficulties in Pipelining,   
+Parallel Algorithms: Models of Computation, random access machine, parallel random access machine, Interconnection networks, combinational circuits, Analysis of Parallel Algorithms, Running time, Number of processors and cost,  
+Introduction To Parallel Processing: Architectural Classification schemes, Multiplicity of instruction – data stream, Serial versus parallel processing, Parallelism versus pipelining, Parallel Processing Applications,   
+Principles Of Pipelining And Vector Processing: Principles of designing Pipeline Processors, Instruction prefetch and branch handling, Data buffering and busing structures, Internal forwarding and register tagging, Hazard detection and resolution.   Pipeline Computers And Vectorization Methods: The space of Pipeline Processors, Vector supercomputers, Scientific attached processors, Early Vector Processors, Architectures of Star-100 and TI-ASC.  
+Structures And Algorithms For Array Processors: SIMD Array Processors, SIMD computer organization, Masking and data routing mechanisms, Inter PE communications, SIMD Interconnection Networks, Static versus dynamic networks, Mesh connected Illiac network  
+SIMD Computers & Performance Enhancement: The Space of  SIMD Computers, Array and associative processors, SIMD computer perspectives, The Illiac-IV System architecture  
+Multiprocessor Architecture And Programming: 
+Multiprocessor Operating Systems, Classification of Multiprocessor operating systems, Software requirements for Multiprocessors, Operating system requirements.  
+Hardware And Operating System Models: Introduction, Hardware, Time-sharing with a single processor, Time-sharing with a single processor, Brief description of tightly coupled Multiprocessing.  
+Processes, Shared Memory And Simple Parallel Programs: Introduction, Processes and processors, Shared memory–1, Forking-Creating Processes, Shared memory-2, Processes are randomly scheduled – Contention.  
+Basic Parallel Programming Techniques: Introduction, Loop splitting, Ideal speedup, Spin-locks, Contention and Self-scheduling, Histogram.  
+Barriers And Race Conditions: Introduction, The Barrier Calls, Expression splitting.  
+Introduction To Scheduling – Nested loops: Introduction, Variations on loop splitting, Variation on self – scheduling, Indirect scheduling.  
+Overcoming Data Dependencies: Introduction, Induction variable, Forward dependency, Block scheduling and forward dependency, Backward dependency, Splittable loops, Special scheduling – Assign based on condition.  
+Scheduling Summary: Introduction, Loop splitting, Expression splitting, Self scheduling, Indirect scheduling, Block scheduling, Special scheduling.  
+Reference Books :  1. Parallel Computers – Architecture and Programming    By V. Rajaraman   and C. Siva Ram Murthy 2.Computer Architecture and Parallel Processing    By Kai Hwang 3.Introduction to Parallel Programming     By Steven Braver 
+    
+    
+    
+    -->	
+	
+<item>
+<description bgcolor="#AA6600">
+<![CDATA[<p class="white_text" align="center">
+<span class="title_large">PARALLEL PROCESSING AND ARCHITECTURE</span><br />
+<span class="title_medium">2CE704</span></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title">PARALLEL PROCESSING AND ARCHITECTURE</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. Data Communication and Networking – 4th Edition
+By – Behrouz A Forouzan
+2. Data and Computer Communications – 7th Edition
+By – William Stalling
+3. Computer Networks – 4th Edition
+By – Andrew S Tanenbaum</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction</span>
+<pre>Data Communications, Networks, Data Representation, Data Flow, Distributed Processing, Network Criteria, Physical Structures, Network Models, Categories of Networks, Intranet, The Internet, Protocols and Standards</pre>
+<span class="subtitle">Network Models</span>
+<pre>Layered Tasks, Sender, Receiver and Carrier Hierarchy, The OSI Model, Layers in the OSI Model, TCP/IP Protocol suit, Addressing – Physical, Logical, Port and Specific Addresses</pre>
+<span class="subtitle">Data and Signals</span>
+<pre>Analog and Digital Signals, Periodic and Non-periodic Signals, Sine Wave, Phase, Wavelength, Time and Frequency Domains, Composite Signals, Bandwidth, Bit Rate, Bit Length, Transmission of Digital Signals, Transmission Impairment, Data Rate Limits, Performance – Bandwidth, Throughput, Latency, Bandwidth-Delay Product, Jitter</pre>
+<span class="subtitle">Digital Transmission</span>
+<pre>Digital-to-Digital Conversion, Line Coding, Line Coding Schemes, Block Coding, Scrambling, Analog-to-Digital Conversion, PCM, DM, Transmission Modes – Parallel and Serial Transmission</pre>
+<span class="subtitle">Analog Transmission</span>
+<pre>Digital-to-Analog Conversion, Amplitude Shift Keying, Frequency Shift Keying, Phase Shift Keying, Quadrature Amplitude Modulation, Analog-to-Analog Conversion, Amplitude Modulation, Frequency Modulation, Phase Modulation</pre>
+<span class="subtitle">Bandwidth Utilization : Multiplexing and Spreading</span>
+<pre>Frequency-Division Multiplexing, Wavelength-Division Multiplexing, Synchronous and Statistical Time-Division Multiplexing, Spread Spectrum</pre>
+<span class="subtitle">Transmission Media</span>
+<pre>Guided Media – Twisted Pair, Coaxial and Fiber-Optic Cable, Unguided Media – Radio Waves, Micro Waves and  Infrared</pre>
+<span class="subtitle">Switching</span>
+<pre>Circuit-Switched Networks, Telephone Networks, Datagram Networks, Routing Table, Datagram Networks, Virtual-Circuit Networks, Structure of a Switch</pre>
+<span class="subtitle">Telephone and Cable Networks for Data Transmission</span>
+<pre>Telephone Network, Dial-up Modems, Digital Subscriber Line, Cable TV Networks, HFC Network, CM and CMTS,DOCSIS</pre></p>]]>
+</content>
+</item>
+	
+	<item>
+	
+<description bgcolor="#660022">
+<![CDATA[<br /><p>				
+   <span class="white_text">2CE705</span>
+<p class="white_text" align="centre">	
+    <span class="title_extra">Software Engineering</span></p>]]>
+</description>
+		
+<content>
+<![CDATA[<p align="justify" class="gray_text">
+<span class="title_medium">Software Engineering</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Database System Concepts : Fourth Edition
+By Silberschatz, Korth, Sudarshan.<a href="books\ce\ce_4th\dbms-2 4th edition.pdf" target="_blank">Download PDF Here.</a>
+2. An Introduction to Database Systems :Seventh Edition
+By C. J. Date
+3. SQI, PI/SQL The Programing Language of ORACLE : 2nd Edition
+By Ivan Bayross.<pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Query Processing:</span>
+<pre>Overview, Measures of Query Cost</pre>
+<span class="subtitle">Query Optimization :</span>
+<pre>Overview</pre>
+<span class="subtitle">Concurrency Control :</span>
+<pre>Lock-Based Protocols, Time Stamp – Based Protocols, Multiple Granularity * ,Deadlock Handling</pre>
+<span class="subtitle">Recovery System :</span>
+<pre>Failure Classification, Storage Structure, Recovery and Atomicity, Log – Based Recovery, Shadow Paging</pre>
+<span class="subtitle">Database System Architecture :</span>
+<pre>Centralized and Client-Server Architectures, Server System Architectures, Parallel Systems, Distributed Systems</pre>
+<span class="subtitle">Distributed Databases :</span>
+<pre>Homogeneous and Heterogeneous Databases, Distributed Data Storage, Distributed Transactions, Commit Protocols</pre>
+<span class="subtitle">Indexing And Hashing:</span>
+<pre>Basic Concepts, Ordered Indices, B+ - Tree Index Files, Static Hashing, Dynamic Hashing, Comparison of Ordered Indexing and Hashing, Index Definition in SQL, Multiple-Key Access</pre>
+<span class="subtitle">Introduction to Data Mining & Data warehousing</span>
+<span class="subtitle">Implementation Of Transaction & Concurrency Concepts Using PL SQL</span></p>]]></content>
+	</item>
+	
+	<item>
+<description bgcolor="#445511" padding="25">
+<![CDATA[<p class="white_text" align="center">
+
+<span class="title_med2">B.TECH Project 1</span>
+<span class="title_small">2CE706</span></p>]]>
+</description>
+
+<content><![CDATA[<p align="justify"><span class="title_large">APPLICATION DEVELOPMENT TOOLS</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Professional VB.NET 2003 Wrox Publications<a href="books\ce\ce_4th\ProfessionalC.sharp2008.pdf" target="_blank">&nbsp;Download Here.</a>
+2. Professional ASP.NET 2003 Wrox Publications<pre><a href="books\ce\ce_4th\Wrox.Beginning.C.Sharp.3.0.An.Introduction.to.Object.Oriented.Programming.pdf" target="_blank">&nbsp;Download Here.</a>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction:</span>
+<pre>The Windows Graphical User Interface, Procedural, Event Driven, and Object Oriented Programming languages.</pre>
+<span class="subtitle">Introduction To .Net Framework:</span>
+<pre>The Common Language Runtime, Elements of a .NET application, Versioning and deployment, Memory management, Cross language Integration</pre>
+<span class="subtitle">The Visual Studio Environment:</span>
+<pre>The IDE Start Page, The New Project Dialog, The IDE Main Window, The Toolbars, The Document Window, The Form Designer, The Solution Explorer Window, The Properties Window, The Toolbox, Help, Design Time, Run Time, and Break Time</pre>
+<span class="subtitle">Variables, Constants And Calculations:</span>
+<pre>Data: Variables and Constants, Arrays, Scope of variables, Calculations, Formatting Data, Handling Exceptions</pre>
+<span class="subtitle">Working With Controls:</span>
+<pre>Using command buttons, text boxes, labels, picture box, image box, list box, combo box, file list box, drive and dir list boxes, scrollbars, rich text box, timer, shape, frames, checkbox, radio button.</pre>
+<span class="subtitle">Decisions Making, Loops And Debugging:</span>
+<pre>If Statements, Conditions, Nested If Statements, Select statement, Input Validation, Do/Loops, For/Next Loops, Calling Event Procedures, Debugging Visual Basic Projects.</pre>
+<span class="subtitle">Sub Procedures, And Functions:</span>
+<pre>Creating Context Menus, working with toolbar, Writing General Procedures.</pre>
+<span class="subtitle">Working With ADO.Net:</span></p>]]></content>
+	</item>
+	
+	</items>
+		
+

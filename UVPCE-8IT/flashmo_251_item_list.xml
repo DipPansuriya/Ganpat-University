@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="HHH_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="445"
+		item_height="300"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="white"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+<item>
+	
+<description bgcolor="#0066CC">
+<![CDATA[<p class="white_text">
+
+<span class="title_medlarge">B.Tech Project 2</span>
+<span class="desc_large">2IT801</span><br /></p>]]>
+</description>
+		
+<content>
+<![CDATA[<span class="title_large">B.Tech Project-2 </span>
+<p align="justify"> <a href="books\8_full.pdf" target="_blank">Download PDF Here.</a>
+<span class="highlight">Reference Books:</span><pre>
+1.Students selected through the campus placement & obtaining training in the companies approved by the institute can opt either in house project or may opt any company.
+	</pre>
+</pre>]]>
+</content>
+
+</item>
+	
+<item>
+
+<description bgcolor="#228844">
+<![CDATA[<p class="white_text" align="center">
+<br /><br /></p>]]>
+</description>
+ 
+	<!--
+    4. Introduction To AI.              
+    By Charmiak and M.Dermalt , Addision-Wesley. 
+    5. The Engineering of Knowledge Based  Systems Theory and Practice.                 
+    By A.J.Gongalez  & D.D. Dankel ,Prentice Hall.   
+    6. Fundamentals of Artificial Neural Networks                     
+    By Mohamad H. Hassou
+    
+    
+    -->
+<content>
+</content>
+
+</item>
+<item>
+
+<description bgcolor="#262626">
+<![CDATA[<p class="white_text">
+<br /><br /></p>]]>
+</description>
+
+<content>
+</content>
+
+</item>
+	
+<item>
+<description bgcolor="#AA6600">
+<![CDATA[<p class="white_text" align="center">
+</p>]]>
+</description>
+
+<content>
+</content>
+</item>
+	
+	<item>
+	
+<description bgcolor="#660022">
+<![CDATA[<br /><p>				
+</p>]]>
+</description>
+		
+<content>
+</content>
+	</item>
+	
+	<item>
+<description bgcolor="#445511" padding="25">
+<![CDATA[<p class="white_text" align="center">
+
+</p>]]>
+</description>
+
+<content></content>
+	</item>
+	
+	</items>
+		
+

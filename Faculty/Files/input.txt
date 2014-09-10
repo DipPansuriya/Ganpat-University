@@ -1,0 +1,2 @@
+A:adef/abc
+B:aB/*

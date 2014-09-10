@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="HHH_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="445"
+		item_height="300"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="white"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+<item>
+	
+<description bgcolor="#FF00CC">
+<![CDATA[<p class="white_text">
+
+<span class="title_medlarge">THEORY OF COMPUTATION</span>
+<span class="desc_large">IT-601</span><br /></p>]]>
+</description>
+		
+<content>
+<![CDATA[<span class="title_large">THEORY OF COMPUTATION</span>
+<p align="justify"> <a href="books/6_full.pdf" target="_blank">Download PDF here.</a>
+<span class="highlight">Reference Books:</span><pre>
+1. Introduction to Languages and Theory of Computation
+By John C. Martin , McGraw-Hill 1991.<a href="books\ce\toc_ch1.pdf"  target="_blank">Download Here.</a>
+2. Computation : Finite and Infinite
+By Marvin L. Minsky, Prentice-Hall, 1967<a href="books\ce\toc_ch2.pdf"  target="_blank">Download Here.</a>
+3. Introduction to formal languages
+By G. E. Reevsz, Mc-graw hill.<a href="books\ce\toc_ch3.pdf "  target="_blank">Download Here.</a>
+4. Formal language theory
+By M. H. Harrison</pre><a href="books\ce\toc_ch4.pdf "  target="_blank">Download Here.</a>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Review Of Mathematical Background::</span>
+<pre>Sets, Functions, Logical statements, Proofs, Relations, Languages, The Principal of Mathematical induction, the strong principle of Mathematical induction, Recursive definitions, Structural Induction.</pre>
+
+<span class="subtitle">Regular Languages And Finite Automata:</span>
+<pre>Regular expressions, Regular languages, Memory required to recognize a language , Finite automata, Distinguishable strings, Union, intersection and complement of regular languages.</pre>
+
+<span class="subtitle">Nondeterminism And Kleen’s Theorem:</span>
+<pre>Non-deterministic finite automata, Non deterministic finite automata with ^ transitions, Kleen's theorem.</pre>
+
+<span class="subtitle">Regular And Non Regular Language:</span>
+<pre>Minimization of Finite automata, Non-regular and regular languages, Pumping Lemma, Decision problems and decision algorithms, Regular languages in relation to programming languages.</pre>
+
+<span class="subtitle">Context-Free Languages And Push-Down Automata:</span>
+<pre>Context-free languages, Regular Grammars , Derivation tree and ambiguity, An Unambiguous CFG , Simplified and Normal forms, Chomsky normal form.</pre>
+
+<span class="subtitle">Pushdown Automata And CFL:</span>
+<pre>Push-Down Automata, Definition and examples, Deterministic PDA, Types of acceptances and their equivalence, Equivalence of CFG and PDA, Introduction to parsing, Top-down and bottom-up parsing, Non-CFL and CFL, Pumping Lemma for CFL, Intersection and Complement of CFL.</pre>
+
+<span class="subtitle">Turing Machine:</span>
+<pre>Models of computation, TM definition, Combining TMs, Computing a function with TMs. Variations on Turing Machines, Doubly infinite and more than one Tapes, Non-deterministic and Universal TM</pre>]]>
+
+
+</content>
+
+</item>
+	
+<item>
+
+<description bgcolor="#66FF66">
+<![CDATA[<p class="white_text" align="center">
+<span class="desc_large">IT-602</span>
+<span class="title_extra">NETWORK PROTOCOLS & PROGRAMMING.</span>
+<br /><br /></p>]]>
+</description>
+	
+<content>
+<![CDATA[<span class="title_medium">NETWORK PROTOCOLS & PROGRAMMING.</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. TCP/IP Protocol Suite, 3/e
+BY Behrouz Forouzan, Tata-mc-graw hill.<a href="books\ce\TCP IP Protocol Suite.pdf"  target="_blank">Download Here.</a>
+2. TCP/IP Illustrated, Volume 1
+By W. Richard Stevens, Low Price Edition.</pre>
+<span class="syllabus">Syllabus--------------->>>></span><br>
+
+<span class="subtitle">Introduction:</span>
+<pre>The OSI Model and the TCP/IP Protocol Suite, Underlying Technologies.</pre>
+
+<span class="subtitle">IP Addresses:</span>
+<pre>Classful Addressing , Classless Addressing , Delivery, Forwarding, and Routing of IP Packets, ARP and RARP , Internet Protocol (IP) , Internet Control Message Protocol (ICMP) , Internet Group Management Protocol (IGMP) , User Datagram Protocol (UDP) ,Transmission Control Protocol (TCP) , Stream Control Transmission Protocol (SCTP) .</pre>
+
+<span class="subtitle">Unicast Routing Protocols :</span>
+<pre>RIP, OSPF, and BGP</pre>
+
+<span class="subtitle">Multicasting And Multicast Routing Protocols , Host Configuration::</span>
+<pre>BOOTP and DHCP</pre>
+
+<span class="subtitle">Domain Name System (DNS):</span><pre></pre>
+
+<span class="subtitle">Remote Login:</span>
+<pre>TELNET</pre>
+
+<span class="subtitle">File Transfer:</span>
+<pre>FTP and TFTP</pre>
+
+<span class="subtitle">Electronic Mail:</span>
+<pre>SMTP, POP, and IMAP</pre>
+
+<span class="subtitle">Network Management::</span>
+<pre>SNMP</pre>
+
+<span class="subtitle">World Wide Web:</span>
+<pre>HTTP</pre></p>]]>
+</content>
+
+</item>
+	
+	
+<item>
+
+<description bgcolor="#6600FF">
+<![CDATA[<p class="white_text">
+<span class="title_medlarge1">IT-603</span>
+
+<span class="title_large">INFORMATION SYSTEM SECURITY</span><br /><br /></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title_medium">INFORMATION SYSTEM SECURITY</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1  Security in Computing.
+By Charles P. Fleeger, Prentice Hall.<a href="books\ce\Number_theory_basics.pdf" target="_blank">Download Here.</a>
+2  Computer and Communications Security Strategies for the 1990s By J. Ranade, Consulting Edit or McGraw Hill.
+3  The Anti-virus Book.
+By Saumil U. Shah, Tata McGraw Hill.
+4  Information Security Handbook.
+By William Caelli, Dennis Longley and others, Macmillan Press Ltd.
+5  Network Security.
+By Richard H. Baker, McGraw Hill.
+6  Cryptography and Secure Communication.
+By Man Young Rhee , McGraw Hill.
+</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Physical Protection Methods And Damage Avoidance Plans:</span>
+<pre>Protection from natural disasters like fire, flood, heat, power loss, electrostatic discharge, electromagnetic, lightening etc. Detection and recovery/protection methods. Various backup methods for data.</pre>
+
+<span class="subtitle">Protection From Intruders:</span>
+<pre>Theft prevention by fences, multiple barriers, walls, mechanical and electronic locks, guards, lights etc. Various intruder detection methods.</pre>
+
+<span class="subtitle">Hardware Access Control :</span>
+<pre>Passwords, Magnetic Stripe Cards, Smart Cards, Biometric Access Controls.</pre>
+
+<span class="subtitle">Attacks On Software And Access Controls :</span>
+<pre>Threats like Trojan horse, Time Bombs, Logic Bombs, Viruses, Worms, Trapdoors, Salami Attack, and Software Anomalies etc. Software Access Control through passwords and other security products. Antivirus software and hardware products. File and database security.</pre>
+
+<span class="subtitle">Personal Computer Security :</span>
+<pre>Protection from data exposure, data destruction, and data copying.</pre>
+
+<span class="subtitle">Secure Operating System :</span>
+<pre>Design of secure operating system. Examples of security in general purpose operating system. Examples of operating systems designed for security.</pre>
+
+<span class="subtitle">Data Base Security :</span>
+<pre>Security of conventional database. Multilevel database security by partitioning, encryption, integrity locking.</pre>
+
+<span class="subtitle">Computer Network Security :</span>
+<pre>Introduction to encryption and its use in network security, Port protection, Node authentication. Traffic and routing control. Data integrity.</pre>
+
+<span class="subtitle">Data Disposal Methods :</span>
+<pre>Shredders, Overwriting Magnetic Data, Degausses, Emanation, Protection-Tempest.</pre></p>]]>
+</content>
+
+</item>	
+<item>
+<description bgcolor="#996633">
+<![CDATA[<p class="white_text" align="center">
+<span class="title_large">WEB TECHNOLOGY</span><br />
+<span class="title_medium">IT-604</span></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title">WEB TECHNOLOGY</span>                                            
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. Teach yourself HTML in 24 hours
+By Techmedia<a href="books\ce\HTML.pdf" target="_blank">Download Here.</a>
+2. HTML4 BIBLE
+By Brayn Omdex
+3. ABC of Javascript
+By Purcell lee BPB publication<a href="books\ce\JAVA SCRIPT.pdf"  target="_blank">Download Here.</a>
+4. Pure java Script
+By Gilliam Johnson Techmedia
+5. professional VB.NET 2003
+Wrox Publications
+</pre>
+
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">HTML Basic :</span>
+<pre>Introduction of HTML, HTML Elements, HTML Basic Tags, HTML Formatting, HTML Entities, HTML Links, HTML Frames, HTML Tables, HTML Lists, HTML Forms, HTML Images, HTML Background, HTML Colors, HTML Color-values, HTML Color-names, Meta-tags and search engine, HTML URL-encode, Publishing HTML on web.</pre>
+
+<span class="subtitle">Cascaded Style Sheet :</span>
+<pre>CSS Introduction, Syntax, Setting Background, Text, Font, Border, Margin, Padding, List, Dimension, Classification, Positioning, Pseudo-class, Pseudo-element, CSS Media Types, External, Internal and Inline style sheet.</pre>
+
+<span class="subtitle">Java Scripts :</span>
+<pre>Variables declaration, If...Else statement, Switch statement, Operators statement, Popup Boxes, Functions, For Loop, While Loop, Break Loops, For...In, Events, Try...Catch, Throw, on error, Java Script Objects String, Date, Array, Boolean, Math, JS Browser, JS Cookies, Validation, Animation, Image Maps, Timing, Create Object.</pre>
+
+<span class="subtitle">Introduction to Server Programming :</span>
+<pre>Basic of ASP, JSP and servlets. Introduction to web server and application server. Web client and web server architecture.</pre>
+
+<span class="subtitle">Web protocols and web security (Overview): :</span>
+<pre>TCP, IP and HTTP , Introduction of SSL.</pre>
+
+<span class="subtitle">Basic of .Net Framework :</span>
+<pre>Net architecture, managed code, assemblies, CLR execution of assembly’s code, Intermediate Language, Just in Time Compiler, Common Language Specification, Interoperability with unmanaged code.</pre></p>]]>
+</content>
+</item>
+	
+		<item>
+<description bgcolor="#FFCC00">
+<![CDATA[<p class="white_text" align="center">
+<span class="title_med2">DISTRIBUTED SYSTEMS</span>
+<span class="title_small">IT-605</span></p>]]>
+</description>
+
+<content><![CDATA[<p align="justify"><span class="title_large">DISTRIBUTED SYSTEMS</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Distributed Operating Systems Concept
+By Pradip K. Sinha <a href="books\ce\Architectures.pdf" target="_blank">&nbsp;Download here.</a>
+<a href="books\ce\Introduction.pdf" target="_blank">&nbsp;Download here.</a>
+<a href="books\ce\Mobile Agent systems.pdf" target="_blank">&nbsp;Download here.</a>
+<a href="books\ce\Mobile Agents with Java_ The Aglet API.pdf" target="_blank">&nbsp;Download here.</a>
+<a href="books\ce\Processes.pdf" target="_blank">&nbsp;Download here.</a>
+<span class="syllabus">Syllabus--------------->>>></span>
+
+<span class="subtitle">Fundamentals :</span>
+<pre>What is a Distributed Computing System (DCS)? Evolution of DCS, Distributed Computing System Models, Why are DCS Gaining Popularity?, What is a Distributed Operating System?
+Issues in Designing A DOS ? Introduction to Distributed Computing Environment(DCE)..</pre>
+
+<span class="subtitle">Message Passing :</span>
+<pre>Introduction, Desirable Features of a Good Message Passing System, Issues in IPC by Good Message Passing, Synchronization, Buffering, Multidatagram Messages, Encoding and Decoding of Message Data, Process Addressing, Failure Handling, Group Communication.</pre>
+
+<span class="subtitle">Remote Procedure Calls (RPC) :</span>
+<pre>Introduction, RPC Model, Transparency of RPC, Implementing RPC Mechanism, Stub Generation, RPC Messages, Marshaling Arguments and Results, Server Management, Parameter Passing Semantics, Call Semantics, Communication Protocols for RPC, Complicated RPCs, Client Server Binding, Exception Handling, Security, Some Special Types of RPCs, RPC in Heterogeneous Environments. Lightweight RPC, Optimization for Better Performance.</pre>
+
+<span class="subtitle">Distributed Shared Memory (DSM) :</span>
+<pre>Introduction, General Architecture of DSM Systems, Design and Implementation Issues of DSM, Granuality, Structure of Shared Memory Space, Consistency models, Replacement strategy, Thrashing, Other approaches to DSM, Heterogeneous DSM, Advantages of DSM.</pre>
+
+<span class="subtitle">Synchronization :</span>
+<pre>Introduction , Clock Synchronization, Event ordering, Mutual Exclusion, Deadlock, Election Algorithms.</pre>
+
+<span class="subtitle">Resource Management :</span>
+<pre>Introduction, Desirable features of a good global scheduling algorithm, Task Assignment approach, Load balancing approach, Load sharing approach.</pre>
+
+<span class="subtitle">Process Management :</span>
+<pre>Introduction, process migration, threads.</pre>
+
+<span class="subtitle">Distributed File Systems :</span>
+<pre>Introduction, desirable features of a good distributed file system, file models, file accessing models, file sharing semantics, file caching schemes, file replication, fault tolerance.</pre>
+
+<span class="subtitle">Naming :</span>
+<pre>Introduction , desirable features of good naming system, fundamental terminologies and concepts, system oriented names.</pre>
+
+<span class="subtitle">Security :</span>
+<pre>Potential attacks to computer systems.</pre>
+
+<span class="subtitle">Working With ADO.Net:</span></p>]]></content>
+	</item>
+
+<item>
+<description bgcolor="#9933CC" padding="25">
+<![CDATA[<br /><p><span class="white_text">IT-606</span></p>
+<p class="white_text"  align="CENTER"><span class="title_extra">SOFTWARE ENGINEERING</span></p>]]>
+</description>
+		
+<content>
+<![CDATA[<p align="justify" class="gray_text">
+<span class="title_medium">SOFTWARE ENGINEERING.</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Fundamentals of Software Engineering
+By Rajib Mall
+2. An Integrated Approach to Software Engineering
+By Pankaj Jalote
+3. Software Engineering : A Practitioner's Approach
+By R. S . Pressman
+4. Fundamentals of Software Engineering
+By Ghezzi
+5. Software Engineering
+By K. K. Aggarwal & Yogesh Singh
+6. Software Engineering : Principles, Tools and Techniques
+By Sangeeta Sabharwal</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">The Product :</span>
+<pre>The evolving role of the software, Software Characteristics, Software Application, Software: A crises on horizon, Software Myths</pre>
+
+<span class="subtitle"> The Process :</span>
+<pre>Software Engineering: A Layered Technology, Process, Methods and Tools , A generic view of Software Engineering, Software Life Cycle Models, Why uses a life cycle models?, Classical Waterfall Model, Iterative Waterfall Model, Prototyping Model, Evolutionary Model, RAD Model, Spiral Model, WIN-Win Spiral Model, Concurrent Development Model, Comparisons of Different Life Cycle Models.</pre>
+
+<span class="subtitle">Software Project Management :</span>
+<pre>The Management Spectrum, People, The Product, Responsibilities of a Software Project Manager, Project Planning, Metrics for Project Size Estimation, Line of Code, Function Point Metrics, Project Estimation Techniques, Empirical Estimation Techniques, COCOMO: A Heuristic Estimation Technique, Halstead’s Software Science: An Analytical Technique, Scheduling, Organization and Team Structure Staffing, Risk Management, Software Configuration Management.</pre>
+
+<span class="subtitle">Requirement Analysis And Specification :</span>
+<pre>Requirements gathering and analysis, SRS, Algebraic specification</pre>
+
+<span class="subtitle">Software Architecture :</span>
+<pre>Role of a Software Architecture, Architectural View, Component and Connection View, Architecture Styles for C & C View, Evaluating Architectures.</pre>
+
+<span class="subtitle">Software Design :</span>
+<pre>What is a good software Design?, Cohesion and Coupling, Neat Arrangement, Software Design Approaches.</pre>
+
+<span class="subtitle">Function Oriented Software Design :</span>
+<pre>Overview of SA/SD methodology, Structured Analysis, Data Flow Diagrams, Primitive symbols used for constructing DFD, Some important concepts associated with designing DFDs, Developing the DFD model of a system, Short coming of the DFD model, Structured design, Flowchart Vs Structured chart, Transformation of a DFD model into structured chart, Detailed Design, Design review.</pre>
+
+<span class="subtitle">Object Modeling Using UML :</span>
+<pre>Overview of object oriented concepts, Basic mechanisms, Key concepts, related technical terms, Advantage of OOD, Unified modeling language (UML), UML diagrams, Use Case Model, Representation of Use Cases, Why develop the Use Case Diagram?, How to Identify the Use Cases of a System?, Essential Vs Real Use Case, Factoring of commonality among use case, Use Case Packing, Class Diagrams, Interaction Diagrams, Activity Diagrams, State chart Diagrams
+</pre>
+
+<span class="subtitle">Coding And Testing :</span>
+<pre>Coding, coding standards and guidelines, Code review, Code walk-through, Code inspection, Clean room testing, Software documentation, Testing, What is testing?, Verification Vs Validation, Design of test cases, Testing in large Vs testing in small, Unit testing, Driver and stub Modules, Black-Box testing, Equivalence class partitioning, Boundary value analysis, Summary of the Black-Box test suite design, White-Box testing, Statement coverage, Branch coverage, Condition coverage, Path coverage, McCabe’s Cyclomatic Complexity Metric, Dataflow based testing, Mutation testing, Debugging, Debugging approaches, Debugging guidelines, Program analysis tools, Static analysis tool, Dynamic analysis tool, Integration testing, phased Vs Incremental integration testing, System Testing, Performance testing,Error seeding</pre>
+
+<span class="subtitle">Software Maintenance :</span>
+<pre>Characteristic of Software Maintenance, Types of Software Maintenance, Characteristics of Software Evolution, Special problems associated with Software Maintenance, Software reverse Engineering, Software maintenance process model, Estimation of maintenance course.</pre>
+</p>]]></content>
+
+	</item>
+	
+	
+	
+	</items>
+		
+

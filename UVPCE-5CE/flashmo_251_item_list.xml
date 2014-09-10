@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="HHH_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="445"
+		item_height="300"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="white"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+<item>
+	
+<description bgcolor="#0066CC">
+<![CDATA[<p class="white_text">
+
+<span class="title_medium">DESIGN & ANALYSIS OF ALGORITHMS </span>
+<span class="title_large">2CE501</span><br /></p>]]>
+</description>
+		
+<content>
+<![CDATA[<span class="title_large">DESIGN & ANALYSIS OF ALGORITHMS </span>
+<p align="justify"> <a href="books/5_full.pdf" target="_blank">Download PDF Here.</a>
+<span class="highlight">Reference Books:</span><pre>
+1. Brassard & Bratley, Fundamentals of Algorithmics
+Prentice Hall of India 
+2. Cormen, Leiserson, Rivest, Introduction to Algorithms  
+Prentice Hall of India
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Elementary Algorithmics :</span>
+<pre>Problems & instances, efficiency of algorithms, average & worst case analyses, elementary operation, reasons for analyzing efficiency..</pre>
+<span class="subtitle">Asymptotic Notation:</span>
+<pre>Big ‘oh’ notation, other asymptotic notation, conditional asymptotic notation, asymptotic notation with several parameters, operations on asymptotic notation. .</pre>
+<span class="subtitle">Models Of Computation:</span>
+<pre>Random Access Machines, computational complexity of RAM programs, a stored program model, abstractions of RAM - straight-line programs, Turing Machines, relationship between Turing Machines and RAM.</pre>
+<span class="subtitle">Analysis Of Algorithms:</span>
+<pre>Analyzing control structures, barometer instructions, examples of their use, average-case analysis, amortized analysis.</pre>
+<span class="subtitle">Solving Recurrences :</span>
+<pre>Intelligent guesswork, homogeneous recurrences, inhomogeneous recurrences, change of variable, range transformations, asymptotic recurrences, substitution method, iteration method, recurrence trees, master method & master theorem. Example analysis of heapsort & quicksort.</pre>
+<span class="subtitle">Greedy Algorithms:</span>
+<pre>General characteristics of greedy algorithms and examples, applications: Kruskal’s and Prim’s algorithms, shortest path problem, knapsack problem, schedulin</pre>
+<span class="subtitle">Divide And Conquer:</span>
+<pre>Characteristics, the general template, applications: binary search, merge sort, quick sort, matrix multiplicatio.</pre>
+<span class="subtitle">Dynamic Programming:</span>
+<pre>General characteristics and examples, principle of optimality, applications: binomial coefficients, making change, knapsack problem, floyd’s algorithm, chained matrix multiplication. Approach using recursion, memory function.</pre>
+<span class="subtitle">Graph Algorithms:</span>
+<pre>Depth-first search, breadth-first search, topological ordering & sorting, backtracking, application of backtracking: knapsack problem. Branch & bound, application: the assignment problem, general consideration.</pre>]]>
+</content>
+
+</item>
+	
+<item>
+
+<description bgcolor="#228844">
+<![CDATA[<p class="white_text" align="center">
+<span class="desc_large">2CE502</span>
+<span class="title_medlarge"> OBJECT ORIENTED ANALYSIS & DESIGN</span>
+<br /><br /></p>]]>
+</description>
+	
+<content>
+<![CDATA[<span class="title_medium">OBJECT ORIENTED ANALYSIS & DESIGN</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. The UML Users guide
+By Grady Booch, J. Rambaugh, Ivar Jacobson, Pearson Education 
+2. Object Oriented Modeling and Design    
+By J. Rambaugh, etal., Pearson   Education 
+3. Object Oriented System Development                 
+By Ali Bahrami, McGraw Hill.</pre>
+<span class="syllabus">Syllabus--------------->>>></span><br>
+<span class="subtitle">Introduction:</span>
+<pre>Overview Of OOL; Object Classes; Meta Types. Object Oriented Methodologies; The Unified Approach Modeling; Why Modeling? Static And Dynamic Models; Functional Models.</pre>
+<span class="subtitle">Complexity:</span>
+<pre>The inherent complexity of software, The structure of complex system, on designing complex system.</pre>
+<span class="subtitle">The Object Model:</span>
+<pre>The evolution of object model, Elements of the object model, Applying the object model.</pre>
+<span class="subtitle">Basic Object Modeling:</span>
+<pre>Multiplicity. Constraints. Aggregation. Component.</pre>
+<span class="subtitle">Object Modeling:</span><pre>
+Object. Links. Association. Inheritance. Grouping Constructs; Problems On Object Modeling; Advantages Of Object Modeling.</pre>
+<span class="subtitle">The Notation:</span><pre>
+Elements of the notations, Class diagrams, State transition diagrams:, Object diagrams, Interaction diagrams, Module diagram, Process diagram</pre>
+<span class="subtitle">The Process:</span>
+<pre>First principles, The micro development process, The macro development process </pre></p>]]>
+</content>
+
+</item>
+	
+	
+<item>
+
+<description bgcolor="#262626">
+<![CDATA[<p class="white_text">
+<span class="title_medlarge1">2CE503</span>
+<span class="title_large">COMPUTER GRAPHICS </span><br /><br /></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title_medium">COMPUTER GRAPHICS </span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+ 1. Computer Graphic            
+ By D.Hearn And P.Baker               
+ 2. Graphics: Principles And Practice.           
+ By J.Foley, A. Van Dam, S. Feiner, and J. Hughes               
+ 3.  Principles of Elements for Computer Graphics     
+ By David Rogers, McGraw Hill               
+ 4. Procedural elements for Computer Graphics     
+ By David Rogers, McGraw Hill             
+ 5. Programmer's guide to the EGA/BGA    
+ By Sutty and Blair, BPB publication </pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction:</span><pre>
+What is Computer Graphics? Application of Computer Graphics,  Workstation Device.</pre>
+<span class="subtitle">Overview of Graphics System:</span><pre>
+Video Display Devices, Raster Scan System, Random Scan System, Input Devices.</pre>
+<span class="subtitle">Output Primitives:</span><pre> Points and Lines, DDA Algorithm, Bresenham’s Line Algorithm, Midpoint Circle Algorithm, Midpoint Ellipse Algorithm, Filled Area Primitives, .</pre>
+<span class="subtitle">Attributes Of Output Primitives:</span><pre>Line Attributes, Antialiasing.</pre>
+<span class="subtitle">2 D Geometric Transformations:</span><pre>Basic Transformation Matrix Representation and Homogeneous Coordinates, Composite Transformation, Reflection, Shear, Transformation Between Coordinate System, Raster Methods for Transformation.</pre>
+<span class="subtitle">2 D Viewing::</span><pre>Window-to-View port Coordinate Transformation, Line Clipping Algorithms, Curve Clipping Text Clipping, Exterior Clipping</pre>
+<span class="subtitle">Structures And Hierarchical Modeling:</span><pre>Structure Concepts, Editing Structures, Basic Modeling Concepts</pre>
+<span class="subtitle">3 D Concepts:</span><pre>Parallel Projection, Perspective Projection, Depth Cueing, Surface Rendering, Three-Dimensional and Stereoscopic Views.</pre>
+<span class="subtitle">3 D Geometric and Modeling Transformation:</span><pre>Translation, Rotation, Scaling Reflection, Shears, Composite Transformation,3 D Transformation Functions, Modeling and Coordinates Transformation</pre></p>]]>
+</content>
+
+</item>	
+	
+<item>
+<description bgcolor="#AA6600">
+<![CDATA[<p class="white_text" align="center">
+<span class="title_large">COMPUTER NETWORKS</span><br />
+<span class="title_medium">2CE504</span></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title">COMPUTER NETWORKS</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. Computer Networks                       
+By Andrew S. Tanenbaum.   Prentice Hall India 
+2.  Data & Computer Communications : Seventh Edition                     
+By William Stallings. Prentice Hall India  
+3. Data Communication & Networking : Third Edition                            
+By Behrouz A. Forouzan. Tata McGraw Hill </pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">OVERVIEW OF COMPUTER NETWORKS </span>
+<pre></pre>
+<span class="subtitle">Uses of Computer Network.</span>
+<pre>Networks for Companies, Networks for People</pre>
+<span class="subtitle">Network Categories.</span>
+<pre>Transmission Technology based, LANs, MANs, WANs, Wireless Networks, Internetworks, Service based.</pre>
+<span class="subtitle">Network Models.</span>
+<pre>Layered Tasks, Internet Model, OSI Model/pre>
+<span class="subtitle">Example Networks</span>
+<pre>Novell Netware, The ARPANET, NSFNET,  Internet, Different ways to access Internet, Gigabit Testbeds</pre>
+<span class="subtitle">PHYSICAL LAYER </span>
+<pre>Bandwidth Limited Signals, Data Rate of a Channel, Digital Transmission, Analog Transmission </pre>
+<span class="subtitle">Transmission Media:</span>
+<pre>Guided Media – Twisted Pair, Coaxial and Fiber-Optic Cable, Unguided Media – Radio Waves, Micro Waves and  Infrared</pre>
+<span class="subtitle">Wireless Transmission</span>
+<pre>Electromagnetic Spectrum, Radio Transmission, Microwave Transmission, Infrared, Light Transmission</pre>
+<span class="subtitle">Telephone System</span>
+<pre>Structure of the Telephone System, Local Loop, Trunks and Multiplexing. </pre></p>]]>
+</content>
+</item>
+	
+	<item>
+	
+<description bgcolor="#660022">
+<![CDATA[<br /><p>				
+<span class="white_text">2CE505</span></p>
+<p class="white_text" align="centre"><span class="title_large">COMPUTER ARCHITECTURE</span></p>]]>
+</description>
+		
+<content>
+<![CDATA[<p align="justify" class="gray_text">
+<span class="title_medium">COMPUTER ARCHITECTURE</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Computer System Architecture : Third edition    
+By M. Morris Mano 
+2. Computer Organization And Design    
+By  P. Pal Chaudhury  
+3. Computer Organization    
+By Carl Hamacher<pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Basic Computer Organization and Design:</span>
+<pre>Instruction Codes, Computer Registers, Computer Instructions, Timing and control, Instruction cycle.</pre>
+<span class="subtitle">Micro programmed Control:</span>
+<pre>Control Memory, Address sequencing, Micro program example, Design of control uni</pre>
+<span class="subtitle">Central Processing Unit:</span>
+<pre>Introduction, General register organization, Stack organization, Instruction formats, Addressing modes, Data Transfer and manipulation, Program control, Reduced Instruction Set Computer.</pre>
+<span class="subtitle">Pipeline And Vector Processing:</span>
+<pre>Parallel processing, Pipelining, Arithmetic pipeline, Instruction pipeline, RISC pipeline, Vector processing, Array processors</pre>
+<span class="subtitle">Input-Output Organization:</span>
+<pre>Peripheral devices, Input-Output interface, Modes of Transfer, Priority interrupt, Direct memory access, Input-Output Processor, Serial communication</pre>
+<span class="subtitle">Memory Organization:</span>
+<pre>Memory hierarchy, Main memory,  Auxiliary memory, Associative memory, Cache memory, Memory management hardware.</pre>
+<span class="subtitle">Multiprocessors:</span>
+<pre>Characteristics of multiprocessors, Interconnection structures, Interprocessor arbitration, Interprocessor communication and synchronization, Cache coherence</pre>
+</p>]]></content>
+	</item>
+	
+	<item>
+<description bgcolor="#445511" padding="25">
+<![CDATA[<p class="white_text" align="center">
+
+<span class="title_extra">Mini Project-1</span>
+<span class="title_small">2CE506</span></p>]]>
+</description>
+
+<content><![CDATA[<p align="justify"><span class="title_large"> Mini project-1</span>
+<span class="highlight">Reference Books:</span><pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction:</span>
+<pre>Students have to do project under guidance of faculty and have to submit their project definition and planning at the starting of the semester and evaluation is done periodically throughout the semester.</pre>
+</p>]]></content>
+	</item>
+	
+	</items>
+		
+

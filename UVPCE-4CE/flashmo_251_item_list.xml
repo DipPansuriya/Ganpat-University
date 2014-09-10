@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="HHH_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="445"
+		item_height="300"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="white"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+<item>
+	
+<description bgcolor="#0066CC">
+<![CDATA[<p class="white_text">
+
+<span class="title_medlarge">DISCRETE MATHEMATICS</span>
+<span class="desc_large">2HS401</span><br /></p>]]>
+</description>
+		
+<content>
+<![CDATA[<span class="title_large">DISCRETE MATHEMATICS</span>
+<p align="justify"> <a href="books\4_full.pdf" target="_blank">Download PDF Here.</a>
+<span class="highlight">Reference Books:</span><pre>
+1. Discrete Mathematical Structures With Application To Computer Science
+By Tremblay, J.P. & Manohar ,Mcgraw Hill - New Delhi
+2. Discrete Mathematics and Its Applications
+By Rosen,Kenneth L.Mcgraw Hill - New Delhi
+3. Applied Discrete Structures For Computer Science
+By Alan Doerr & Kenneth , Galgotia Publications Pvt.Ltd. New Delhi
+4. Discrete Mathematical Structures For Computer Science
+By Kolman, B& Busby R.C,Prentice Hall Of India Pvt Ltd.,New Delhi
+5. Fuzzy Sets and Fuzzy Logic. Theory and Applications
+By Georgr J. Klir/Bo Yuan</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Predicate Calculus :</span>
+<pre>Introduction, Objectives, Predicates, Statement Functions, Variable and Quantifiers, Free and Bound Variables, Special Valid Formulas Involving Quantifiers - Theory Of Inference For The Predicate Calculus.</pre>
+<span class="subtitle">Fuzzy Sets:</span>
+<pre>Some Useful Definitions, Basic Operations On Fuzzy Sets Image and Inverse Images, I-V Fuzzy Sets, Fuzzy Relations.</pre>
+<span class="subtitle">Group Theory :</span>
+<pre>Definition and Examples Of Semigroups, Monoids and Groups. Abelian Group, Cyclic Group;Subgroup,Permutation Groups, Coset Decomposition Of Groups, Normal Subgroups, Lagranges Theorem.</pre>
+<span class="subtitle">Lattices :</span>
+<pre>Poset, Lattice As A Poset, Properties Of Lattices, Lattices as Algebraic Systems, Sublattices, Direct Produce and Homomorphism, Complete Lattices, Bounds Of Lattices, Distributive Lattices, Complemented Lattice.</pre>
+<span class="subtitle">Boolean Algebra :</span>
+<pre>Introduction, Definition and Properties, Sub-Boolean Algebra Direct Product and Homomorship, Atoms, Stone's Representation Theorem. Boolean Expressions and Their Equivalences. Minterm and Max Terms. Boolean Algebra, Values Of Boolean Expressions, Canonical Forms, Boolean Functions, Symmetric Boolean Functions.</pre>
+<span class="subtitle">Graph Theory :</span>
+<pre>Basic Concept of Graph Theory, Basic Definitions. Path,Reachability and Connectedness ,Matrix Representation Of Graphs, Trees</pre>]]>
+</content>
+
+</item>
+	
+<item>
+
+<description bgcolor="#228844">
+<![CDATA[<p class="white_text" align="center">
+													<span class="desc_large">2CE402</span>
+<span class="title_extra">OPERATING SYSTEMS</span>
+<br /><br /></p>]]>
+</description>
+	
+<content>
+<![CDATA[<span class="title_medium">OPERATING SYSTEMS</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1.Operating System Concepts
+By A Silberschatz and Peter B Galvin Addision-Wesley<a href="books\ce\ce_4th\os.pdf" target="_blank">&nbsp;Download Here.</a>
+2. Modern Operating Systems
+By Andrew s Tanaunbaum ,PHI<a href="books\ce\ce_4th\full_tanenbaum.pdf" target="_blank">&nbsp;Download Here.</a>
+3. Operating Systems
+By William Stallings, PHI</pre>
+<span class="syllabus">Syllabus--------------->>>></span><br>
+<span class="subtitle">Introduction To OS:</span>
+<pre>OS Services and Kernel, Batch OS, Multiprogramming and Time Sharing, Multiprocessing, Operating System structures</pre>
+<span class="subtitle">Process Management:</span>
+<pre>Process Concepts, Interprocess communication, Classical IPC Problems, Threads Concepts, Process Scheduling.</pre>
+<span class="subtitle">Deadlocks :</span><pre></pre>
+<span class="subtitle">Memory Management:</span>
+<pre>Swapping, Paging and Segmentation, Virtual Memories, Page replacement Algorithms, Modelling paging Algorithms, Design Issues for paging systems</pre>
+<span class="subtitle">I/O and Device Management:</span><pre></pre>
+<span class="subtitle">File Management:</span><pre></pre>
+<span class="subtitle">Case study:</span>
+<pre>Linux</pre></p>]]>
+</content>
+
+</item>
+	
+	
+<item>
+
+<description bgcolor="#262626">
+<![CDATA[<p class="white_text">
+<span class="title_medlarge1">2CE403</span>
+
+<span class="title_large">DATA STRUCTURE</span><br /><br /></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title_medium">DATA STRUCTURE</span>
+<p align="justify"><span class="highlight">Reference Books:</span><pre>
+1. Data Structures Using C and C++
+By Langsam, Augenstein, Tenenbaum
+2. Data Structures, An Object-Oriented Approach
+By Collins, W.J
+3. An Introduction To Data Structures With Application
+By Tremblay, J.P., P.G. Sorenson</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction to Data Structures:</span><pre></pre>
+<span class="subtitle">Linear Data Structures:</span><pre></pre>
+<span class="subtitle">The stack:</span><pre>Introduction, Representing stack in C++, Infix, Postfix, Prefix notation of expression.</pre>
+<span class="subtitle">The Queue:</span><pre>The queue and its sequential representation, Priority Queue.</pre>
+<span class="subtitle">Linked Lists:</span><pre>Creating Linked list, Inserting and removing Nodes from a list, Linked Implementation of stacks and queue, Link list as a data structure, circular list, Doubly linked list.</pre>
+<span class="subtitle">Tree:</span><pre>Binary trees, Binary tree representation, Binary tree traversals, Threaded binary tree, List as binary tree, Tree and their applications</pre>
+<span class="subtitle">Sorting :</span><pre>Elementary sorts: Bubble sort, Quick sort, selection sort, tree sorting, insertion sort, merge sort, radix sort
+Worst case and average behavior</pre>
+<span class="subtitle">Searching:</span><pre>Basic search techniques- Sequential searching, Binary search, Tree searching, General tree searching – multiway search tree,B-tree,
+introduction to B+ Tree, Hashing.</pre>
+<span class="subtitle">Graph And Their Application:</span><pre>Graph, linked list representation of graph, Graph traversal and spanning forests</pre></p>]]>
+</content>
+
+</item>	
+	
+<item>
+<description bgcolor="#AA6600">
+<![CDATA[<p class="white_text" align="center">
+<span class="title_large">BASICS OF COMMUNICATION SYSTEMS</span><br />
+<span class="title_medium">2CE404</span></p>]]>
+</description>
+
+<content>
+<![CDATA[<span class="title">BASICS OF COMMUNICATION SYSTEMS</span>
+<p align="justify"> 
+<span class="highlight">Reference Books:</span><pre>
+1. Data Communication and Networking – 4th Edition
+By – Behrouz A Forouzan<a href="books\ce\ce_4th\Data_Communications_And_Networking,_4th_Edition.pdf" target="_blank">Download PDF Here.</a>
+2. Data and Computer Communications – 7th Edition
+By – William Stalling
+3. Computer Networks – 4th Edition
+By – Andrew S Tanenbaum</pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction</span>
+<pre>Data Communications, Networks, Data Representation, Data Flow, Distributed Processing, Network Criteria, Physical Structures, Network Models, Categories of Networks, Intranet, The Internet, Protocols and Standards</pre>
+<span class="subtitle">Network Models</span>
+<pre>Layered Tasks, Sender, Receiver and Carrier Hierarchy, The OSI Model, Layers in the OSI Model, TCP/IP Protocol suit, Addressing – Physical, Logical, Port and Specific Addresses</pre>
+<span class="subtitle">Data and Signals</span>
+<pre>Analog and Digital Signals, Periodic and Non-periodic Signals, Sine Wave, Phase, Wavelength, Time and Frequency Domains, Composite Signals, Bandwidth, Bit Rate, Bit Length, Transmission of Digital Signals, Transmission Impairment, Data Rate Limits, Performance – Bandwidth, Throughput, Latency, Bandwidth-Delay Product, Jitter</pre>
+<span class="subtitle">Digital Transmission</span>
+<pre>Digital-to-Digital Conversion, Line Coding, Line Coding Schemes, Block Coding, Scrambling, Analog-to-Digital Conversion, PCM, DM, Transmission Modes – Parallel and Serial Transmission</pre>
+<span class="subtitle">Analog Transmission</span>
+<pre>Digital-to-Analog Conversion, Amplitude Shift Keying, Frequency Shift Keying, Phase Shift Keying, Quadrature Amplitude Modulation, Analog-to-Analog Conversion, Amplitude Modulation, Frequency Modulation, Phase Modulation</pre>
+<span class="subtitle">Bandwidth Utilization : Multiplexing and Spreading</span>
+<pre>Frequency-Division Multiplexing, Wavelength-Division Multiplexing, Synchronous and Statistical Time-Division Multiplexing, Spread Spectrum</pre>
+<span class="subtitle">Transmission Media</span>
+<pre>Guided Media – Twisted Pair, Coaxial and Fiber-Optic Cable, Unguided Media – Radio Waves, Micro Waves and  Infrared</pre>
+<span class="subtitle">Switching</span>
+<pre>Circuit-Switched Networks, Telephone Networks, Datagram Networks, Routing Table, Datagram Networks, Virtual-Circuit Networks, Structure of a Switch</pre>
+<span class="subtitle">Telephone and Cable Networks for Data Transmission</span>
+<pre>Telephone Network, Dial-up Modems, Digital Subscriber Line, Cable TV Networks, HFC Network, CM and CMTS,DOCSIS</pre></p>]]>
+</content>
+</item>
+	
+	<item>
+	
+<description bgcolor="#660022">
+<![CDATA[<br /><p><span class="white_text">2CE405</span></p>
+<p class="white_text" align="centre"><span class="title_extra">DBMS-II</span></p>]]>
+</description>
+		
+<content>
+<![CDATA[<p align="justify" class="gray_text">
+<span class="title_medium">DBMS-II</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Database System Concepts : Fourth Edition
+By Silberschatz, Korth, Sudarshan.<a href="books\ce\ce_4th\dbms-2 4th edition.pdf" target="_blank">Download PDF Here.</a>
+2. An Introduction to Database Systems :Seventh Edition
+By C. J. Date
+3. SQI, PI/SQL The Programing Language of ORACLE : 2nd Edition
+By Ivan Bayross.<pre>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Query Processing:</span>
+<pre>Overview, Measures of Query Cost</pre>
+<span class="subtitle">Query Optimization :</span>
+<pre>Overview</pre>
+<span class="subtitle">Concurrency Control :</span>
+<pre>Lock-Based Protocols, Time Stamp – Based Protocols, Multiple Granularity * ,Deadlock Handling</pre>
+<span class="subtitle">Recovery System :</span>
+<pre>Failure Classification, Storage Structure, Recovery and Atomicity, Log – Based Recovery, Shadow Paging</pre>
+<span class="subtitle">Database System Architecture :</span>
+<pre>Centralized and Client-Server Architectures, Server System Architectures, Parallel Systems, Distributed Systems</pre>
+<span class="subtitle">Distributed Databases :</span>
+<pre>Homogeneous and Heterogeneous Databases, Distributed Data Storage, Distributed Transactions, Commit Protocols</pre>
+<span class="subtitle">Indexing And Hashing:</span>
+<pre>Basic Concepts, Ordered Indices, B+ - Tree Index Files, Static Hashing, Dynamic Hashing, Comparison of Ordered Indexing and Hashing, Index Definition in SQL, Multiple-Key Access</pre>
+<span class="subtitle">Introduction to Data Mining & Data warehousing</span>
+<span class="subtitle">Implementation Of Transaction & Concurrency Concepts Using PL SQL</span></p>]]></content>
+	</item>
+	
+	<item>
+<description bgcolor="#445511" padding="25">
+<![CDATA[<p class="white_text" align="center">
+
+<span class="title_med2">APPLICATION DEVELOPMENT TOOLS</span>
+										
+										<span class="title_small">2CE406</span></p>]]>
+</description>
+
+<content><![CDATA[<p align="justify"><span class="title_large">APPLICATION DEVELOPMENT TOOLS</span>
+<span class="highlight">Reference Books:</span><pre>
+1. Professional VB.NET 2003 Wrox Publications<a href="books\ce\ce_4th\ProfessionalC.sharp2008.pdf" target="_blank">&nbsp;Download Here.</a>
+2. Professional ASP.NET 2003 Wrox Publications<pre><a href="books\ce\ce_4th\Wrox.Beginning.C.Sharp.3.0.An.Introduction.to.Object.Oriented.Programming.pdf" target="_blank">&nbsp;Download Here.</a>
+<span class="syllabus">Syllabus--------------->>>></span>
+<span class="subtitle">Introduction:</span>
+<pre>The Windows Graphical User Interface, Procedural, Event Driven, and Object Oriented Programming languages.</pre>
+<span class="subtitle">Introduction To .Net Framework:</span>
+<pre>The Common Language Runtime, Elements of a .NET application, Versioning and deployment, Memory management, Cross language Integration</pre>
+<span class="subtitle">The Visual Studio Environment:</span>
+<pre>The IDE Start Page, The New Project Dialog, The IDE Main Window, The Toolbars, The Document Window, The Form Designer, The Solution Explorer Window, The Properties Window, The Toolbox, Help, Design Time, Run Time, and Break Time</pre>
+<span class="subtitle">Variables, Constants And Calculations:</span>
+<pre>Data: Variables and Constants, Arrays, Scope of variables, Calculations, Formatting Data, Handling Exceptions</pre>
+<span class="subtitle">Working With Controls:</span>
+<pre>Using command buttons, text boxes, labels, picture box, image box, list box, combo box, file list box, drive and dir list boxes, scrollbars, rich text box, timer, shape, frames, checkbox, radio button.</pre>
+<span class="subtitle">Decisions Making, Loops And Debugging:</span>
+<pre>If Statements, Conditions, Nested If Statements, Select statement, Input Validation, Do/Loops, For/Next Loops, Calling Event Procedures, Debugging Visual Basic Projects.</pre>
+<span class="subtitle">Sub Procedures, And Functions:</span>
+<pre>Creating Context Menus, working with toolbar, Writing General Procedures.</pre>
+<span class="subtitle">Working With ADO.Net:</span></p>]]></content>
+	</item>
+	
+	</items>
+		
+
